@@ -9,8 +9,8 @@ To get the job board up and running on your local machine, follow these steps:
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/thefonzie-codes/job-board.git
+   cd job-board
    ```
 
 2. **Navigate to the Backend Directory**
